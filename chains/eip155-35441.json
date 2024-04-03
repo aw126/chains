@@ -1,14 +1,11 @@
 {
   "name": "Q Mainnet",
   "chain": "Q",
-  "network": "mainnet",
-  "rpc": [
-    "https://rpc.q.org"
-  ],
+  "rpc": ["https://rpc.q.org"],
   "faucets": [],
   "nativeCurrency": {
-    "name": "Q token",
-    "symbol": "Q",
+    "name": "QGOV",
+    "symbol": "QGOV",
     "decimals": 18
   },
   "infoURL": "https://q.org",

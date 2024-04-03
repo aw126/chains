@@ -5,9 +5,7 @@
     "https://devnet2openapi.platon.network/rpc",
     "wss://devnet2openapi.platon.network/ws"
   ],
-  "faucets": [
-  "https://devnet2faucet.platon.network/faucet"
-  ],
+  "faucets": ["https://devnet2faucet.platon.network/faucet"],
   "nativeCurrency": {
     "name": "LAT",
     "symbol": "lat",
@@ -17,6 +15,7 @@
   "shortName": "platondev2",
   "chainId": 2206132,
   "networkId": 1,
+  "slip44": 1,
   "icon": "platon",
   "explorers": [
     {
